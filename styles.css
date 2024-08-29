@@ -172,3 +172,8 @@ body {
     font-family: var(--ff-accent);
     color: var(--clor-primary-400);
 }
+
+.attribution {
+    text-align: center;
+    padding: 1rem;
+}
